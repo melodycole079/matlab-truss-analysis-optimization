@@ -1,0 +1,14 @@
+# MATLAB generated files
+*.asv
+*.m~
+*.autosave
+.matlab/
+
+# Python generated files
+__pycache__/
+*.pyc
+
+# OS and editor files
+.DS_Store
+.vscode/
+.idea/
