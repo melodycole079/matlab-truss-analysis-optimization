@@ -4,7 +4,9 @@
 clc;
 clear;
 close all;
-addpath('../optimization');
+sourceFolder = fileparts(mfilename('fullpath'));
+addpath(sourceFolder);
+addpath(fullfile(sourceFolder, '..', 'optimization'));
 
 fprintf('MATLAB Truss Analysis & Optimization Tool\n');
 fprintf('Independent project exploring computational structural analysis.\n\n');
