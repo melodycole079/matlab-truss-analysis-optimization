@@ -124,3 +124,7 @@ This project is licensed under the MIT License. See [`LICENSE`](LICENSE).
 
 [1]: https://en.wikipedia.org/wiki/Direct_stiffness_method "Direct stiffness method overview"
 [2]: https://www.mathworks.com/help/matlab/ "MATLAB Documentation — MathWorks"
+
+## Learning and tutoring acknowledgment
+
+These projects were developed as part of my independent learning journey with tutoring support from **AssignmentDude**. Their guidance helped me understand the engineering concepts, organize the MATLAB implementations, interpret results, and improve my technical documentation. I remain responsible for reviewing the work, understanding the models, and continuing to develop the skills behind each project.
