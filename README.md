@@ -127,4 +127,4 @@ This project is licensed under the MIT License. See [`LICENSE`](LICENSE).
 
 ## Learning and tutoring acknowledgment
 
-These projects were developed as part of my independent learning journey with tutoring support from **AssignmentDude**. Their guidance helped me understand the engineering concepts, organize the MATLAB implementations, interpret results, and improve my technical documentation. I remain responsible for reviewing the work, understanding the models, and continuing to develop the skills behind each project.
+This truss-analysis and optimization project was completed as an independent learning exercise with tutoring support from **AssignmentDude**. Their guidance helped me understand the direct-stiffness method, matrix assembly, structural response, member stresses, and design-oriented optimization. I used the support to learn the workflow, test the implementation, and improve the project documentation.
